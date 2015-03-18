@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="400"
+   height="700"
+   id="svg2"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="shapes.svg">
+  <metadata
+     id="metadata66">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs64" />
+  <sodipodi:namedview
+     pagecolor="#7590ae"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1121"
+     inkscape:window-height="882"
+     id="namedview62"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="200"
+     inkscape:cy="273.98214"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#e100ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path6"
+     d="m 134.8,319.5 c -8.4,0 -15.3,6.8 -15.3,15.3 v 30.5 c 0,8.4 6.8,15.3 15.3,15.3 H 165 c 8.4,0 15.5,-6.8 15.5,-15.3 v -30.5 c 0,-8.4 -6.8,-15.3 -15.3,-15.3 h -30.4 z" />
+  <path
+     style="fill:#e100ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="m 237.5,312.5 c -6.9,0 -12.5,8.4 -12.5,18.8 v 37.5 c 0,10.4 5.6,18.8 12.5,18.8 h 25 c 6.9,0 12.5,-8.4 12.5,-18.8 v -37.3 c 0,-10.4 -5.6,-19 -12.5,-19 h -25 z" />
+  <path
+     style="fill:#e100ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path10"
+     d="m 334.8,319.5 c -8.4,0 -15.3,6.8 -15.3,15.3 v 30.5 c 0,8.4 6.8,15.3 15.3,15.3 H 365 c 8.4,0 15.5,-6.8 15.5,-15.3 v -30.5 c 0,-8.4 -6.8,-15.3 -15.3,-15.3 h -30.4 z" />
+  <path
+     style="fill:#e100ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     inkscape:connector-curvature="0"
+     id="path12"
+     d="m 87.5,362.5 v -25 C 87.5,330.6 79.1,325 68.7,325 H 31.3 c -10.4,0 -18.8,5.6 -18.8,12.5 v 25 c 0,6.9 8.4,12.5 18.8,12.5 h 37.3 c 10.3,0 18.9,-5.6 18.9,-12.5 z" />
+  <polygon
+     style="fill:#e3002c;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon14"
+     points="186.6,134.8 134.8,113.4 113.4,165.2 165.2,186.6 " />
+  <polygon
+     style="fill:#e3002c;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon16"
+     points="210.4,150 250,189.6 289.6,150 250,110.4 " />
+  <polygon
+     style="fill:#e3002c;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon18"
+     points="313.4,134.8 334.8,186.6 386.6,165.2 365.2,113.4 " />
+  <polygon
+     style="fill:#00d300;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon20"
+     points="170,685 170,615 130,615 130,685 " />
+  <polygon
+     style="fill:#00d300;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon22"
+     points="370,685 370,615 330,615 330,685 " />
+  <polygon
+     style="fill:#e3002c;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon24"
+     points="78,178 78,122 22,122 22,178 " />
+  <polygon
+     style="fill:#00d300;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon26"
+     points="84,619 44,619 16,681 56,681 " />
+  <polygon
+     style="fill:#00d300;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon28"
+     points="284,681 256,619 216,619 244,681 " />
+  <polygon
+     style="fill:#f4c656;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon30"
+     points="106.9,432.1 128.8,458.8 132.1,493.1 158.8,471.2 193.1,467.9 171.2,441.2 167.9,406.9 141.2,428.8 " />
+  <polygon
+     style="fill:#f4c656;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon32"
+     points="203.3,450 233.7,466.3 250,496.7 266.3,466.3 296.7,450 266.3,433.7 250,403.3 233.7,433.7 " />
+  <polygon
+     style="fill:#f4c656;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon34"
+     points="393.1,432.1 358.8,428.8 332.1,406.9 328.8,441.2 306.9,467.9 341.2,471.2 367.9,493.1 371.2,458.8 " />
+  <polygon
+     style="fill:#f4c656;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon36"
+     points="27,450 17,483 50,473 83,483 73,450 83,417 50,427 17,417 " />
+  <polygon
+     style="fill:#007f7f;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon38"
+     points="141.9,530.4 120.6,521.6 109.2,549.3 130.4,558.1 121.6,579.4 149.3,590.8 158.1,569.6 179.4,578.4 190.8,550.7 169.6,541.9 178.4,520.6 150.7,509.2 " />
+  <polygon
+     style="fill:#007f7f;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon40"
+     points="233.7,512.5 212.5,533.7 228.8,550 212.5,566.3 233.7,587.5 250,571.2 266.3,587.5 287.5,566.3 271.2,550 287.5,533.7 266.3,512.5 250,528.8 " />
+  <polygon
+     style="fill:#007f7f;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon42"
+     points="349.3,509.2 321.6,520.6 330.4,541.9 309.2,550.7 320.6,578.4 341.9,569.6 350.7,590.8 378.4,579.4 369.6,558.1 390.8,549.3 379.4,521.6 358.1,530.4 " />
+  <polygon
+     style="fill:#007f7f;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon44"
+     points="35,535 12,535 12,565 35,565 35,588 65,588 65,565 88,565 88,535 65,535 65,512 35,512 " />
+  <polygon
+     style="fill:#eeff00;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon46"
+     points="143.7,230.9 117.5,226.4 129.9,249.9 117.5,273.4 143.7,268.9 162.2,287.9 166,261.6 189.9,249.9 166,238.1 162.2,211.9 " />
+  <polygon
+     style="fill:#eeff00;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon48"
+     points="249.9,229.9 226.4,217.5 230.9,243.7 211.9,262.2 238.1,266 249.9,289.9 261.6,266 287.9,262.2 268.9,243.7 273.4,217.5 " />
+  <polygon
+     style="fill:#eeff00;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon50"
+     points="382.3,273.3 369.9,249.8 382.3,226.3 356.1,230.8 337.6,211.8 333.8,238.1 309.9,249.8 333.8,261.6 337.6,287.9 356.1,268.8 " />
+  <polygon
+     style="fill:#eeff00;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon52"
+     points="12,237.5 31,256 26.5,282.2 50,269.8 73.5,282.2 69,256 88,237.5 61.8,233.6 50,209.8 38.2,233.6 " />
+  <polygon
+     style="fill:#79c8ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon54"
+     points="137.3,10.9 109,49.9 137.3,88.9 183.1,74 183.1,25.8 " />
+  <polygon
+     style="fill:#79c8ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon56"
+     points="225.9,16.8 211,62.6 250,90.9 288.9,62.6 274,16.8 " />
+  <polygon
+     style="fill:#79c8ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon58"
+     points="316.8,25.9 316.8,74 362.6,88.9 390.9,49.9 362.6,11 " />
+  <polygon
+     style="fill:#79c8ff;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+     id="polygon60"
+     points="74.1,83.1 89,37.2 50,8.9 11,37.2 25.9,83.1 " />
+</svg>
